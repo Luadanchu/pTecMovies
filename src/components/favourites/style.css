@@ -1,0 +1,57 @@
+.containerGralFav{
+    background-color: #000084;
+    padding: .5rem;
+}
+.containerFav{
+    padding: 1rem 5rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    min-height: 60vh;
+}
+.contentEmptyFav{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.titEmptyFav{
+    font-size: 2rem;
+    text-align: center;
+}
+.itemFav{
+    width: 10rem;
+    margin: 1rem auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffffff;
+    padding: .2rem;
+}
+.imgFav{
+    width: 100%;
+    object-fit: contain; 
+}
+a{
+    text-decoration: none;
+    color: black;
+    
+}
+.txtItemFav{
+    font-size: .9rem;
+    font-weight: 600;
+    padding: 1rem;
+    text-align: center;
+}
+.btnBackFav,
+.btnClearFav{
+    padding: .5rem 1.5rem;
+    font-size: .8rem;
+    font-weight: 600;
+    color: #000084;
+    background-color: #ffffff;
+    border: 1px solid #000084;
+    cursor: pointer;
+    margin: 5rem 0;
+}

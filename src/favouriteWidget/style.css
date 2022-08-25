@@ -1,0 +1,10 @@
+.FavIcon{
+    color: #a4a4ff;
+    cursor: pointer;
+}
+
+.spanFavItems{
+    font-size: 1rem;
+    color: #ffffff;
+    font-weight: 600;
+}

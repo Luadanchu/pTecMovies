@@ -1,0 +1,51 @@
+.containerDetailMovie{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 3rem;
+    background-color: #ffffff;
+    color: #000000;
+}
+
+.cardDetailMovie{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.imgDetailMovie{
+    width: 15rem;
+}
+
+.textContainerDetailMovie{
+    padding: 0 5rem 1rem 5rem;
+}
+.titDetailMovie{
+    font-size: 3rem;
+    font-weight: 600;
+    text-align: center;
+    margin: 2rem 0;
+}
+.txtDetailMovie{
+    font-size: 1.2rem;
+    text-align: justify;
+    margin-bottom: 1rem;
+}
+.PeopleDetailMovie{
+    font-size: 1.05rem;
+}
+.txtEspDetailMovie{
+    padding: 1rem 0;
+    font-size: 1rem;
+    margin-bottom: 2rem;
+}
+.btnDetailMovie{
+    padding: .5rem 1.5rem;
+    font-size: .8rem;
+    font-weight: 600;
+    color: #ffffff;
+    background-color: #000084;
+    cursor: pointer;
+}

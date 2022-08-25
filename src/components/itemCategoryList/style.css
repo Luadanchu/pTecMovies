@@ -1,0 +1,7 @@
+.cardMovieContainer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 2rem;
+    min-height: 73vh;
+}

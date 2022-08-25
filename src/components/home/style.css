@@ -1,0 +1,68 @@
+.containerGralHome{
+    background-color: #000084;
+    padding: .5rem;
+}
+
+.titHome{
+    text-align: center;
+    font-size: 2.5rem;
+    margin-top: 2rem;
+}
+.cardCategorycontainer{
+    padding: 5rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.cardCategory{
+    width: 20rem;
+    height: 20rem;
+    margin: 2rem;
+    border-radius: 3%;
+    cursor: pointer;
+    filter: grayscale(.6);
+}
+.cardCategory:hover{
+    filter: grayscale(0);
+}
+
+.action{
+    background-image: url(https://www.beon.com/wp-content/uploads/2018/08/Duro-de-matar-1280x720.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.adventure{
+    background-image: url(https://larepublica.pe/resizer/a4ESDFkXa0y0Um94HF7pBjdd5BI=/480x282/top/smart/cloudfront-us-east-1.images.arcpublishing.com/gruporepublica/HI2CBGHPCJABLBQM5WRVCWOQPA.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.comedy{
+    background-image: url(https://revistafem.com/wp-content/uploads/2021/09/mejores-peliculas-risa-comedia.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.family{
+    background-image: url(https://picnic.media/wp-content/uploads/2019/09/TOP-10-1140x700.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.scifi{
+    background-image: url(https://as01.epimg.net/meristation/imagenes/2022/01/08/reportajes/1641663699_912465_1641719056_noticia_normal.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.cardTxtCategory{
+    font-size: 2.5rem;
+    text-align: center;
+    margin-top: 40%;
+}
+.cardTxtCategory:hover{
+    font-size: 3rem;
+}

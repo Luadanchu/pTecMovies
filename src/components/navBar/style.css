@@ -1,0 +1,21 @@
+header{
+    background-color: #000050;
+    padding: 2rem 4rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+ol{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    list-style-type: none;
+}
+li a{
+    text-decoration: none;
+    color: white;
+    padding: 0 .5rem;
+    font-size: 1.2rem;
+}

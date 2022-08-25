@@ -1,0 +1,52 @@
+.contenGralLogin{
+    min-width: 100vw;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.titLogin{
+    font-size: 2.5rem;
+    text-align: center;
+    margin-bottom: 3rem;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    background-color: #000050;
+    width: 40%;
+    padding: 5rem 2rem;
+    border: 1px solid #ffffff;
+    border-radius: 1rem;
+}
+.infutForm,
+.infutFormError{
+    background-color: #ffffff;
+    border: none;
+    border-bottom: 1px solid #000050;
+    margin: 1rem;
+    padding: 1rem 1rem;
+}
+::placeholder{
+    color: #000050;
+    font-size: .8rem;
+}
+.infutFormError{
+    background-color: #ffdada;
+}
+.infutFormError::placeholder{
+    color: red;
+    font-size: .8rem;
+}
+.btnLogin{
+    width: 30%;
+    padding: .5rem 1.5rem;
+    font-size: .8rem;
+    font-weight: 600;
+    color: #000084;
+    background-color: #ffffff;
+    border: 1px solid #000084;
+    cursor: pointer;
+    margin: 1rem;
+    align-self: flex-end;
+}
