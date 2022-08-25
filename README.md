@@ -5,6 +5,8 @@ Filtro por categorías, detalle de peloculas, sección favoritos,, formulario de
 
 ## PruebaTec
 
+Tiempo de desarrollo 48hs
+
 ## Installation
 
 - Clone repository
