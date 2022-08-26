@@ -1,7 +1,7 @@
 # Movie Multimedia
 
 Movie Web <br>
-Filtro por categorías, detalle de peloculas, sección favoritos,, formulario de login con validación de campos y de email, generación de nuevos usuarios en datos en Firebase.
+Filtro por categorías, detalle de películas, sección favoritos, formulario de login con validación de campos y de email, generación de nuevos usuarios en datos en Firebase.
 
 ## PruebaTec
 
